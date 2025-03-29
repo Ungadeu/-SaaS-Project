@@ -11,3 +11,5 @@ Give users the option of canceling the plan already made.
 Push to add a reminder to any events, 
 If a location is added to an event, the AI can look at weather/traffic reports on the day and send a warning alert.
 If the AI detects more than two events, it will recommend a break between each event to relieve stress on that day.
+
+#Presentation Link: https://docs.google.com/presentation/d/1PDCfslFnkETJN8T6MjKpXN8lZ07-QgnyNwLP3Bmafho/edit?usp=sharing
